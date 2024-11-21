@@ -1,0 +1,53 @@
+.box{
+    width: 1000px;
+    height: 500px;
+    background-color: blue;
+    color: #ddd;
+    border: 5px solid yellow;
+    padding:20px;
+    margin: 50px;
+}nav {
+    background-color: #040215;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #e0d8d8;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: #ddd;
+}
+.Buy{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:black;
+    color:white;
+}
+h1{
+color: Black;
+padding: 5px;
+text-align: center;
+}
+ul {
+    font-size: 20px;
+}
+    p{
+        font-size: 20px;
+    }
